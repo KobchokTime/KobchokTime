@@ -1,6 +1,14 @@
-### Hi there 👋
-- 🔭 I’m currently working on final year project 
+# Hi I'm Kobchok, Welcome to my Github profile 👋
 
+😄 Hi I'm Kobchok but you can call me ✨ Time ✨ now I'm 4th-year robotics and ai engineering student at KMITL and I'm interested in the game, Ux/UI and other software industry, so I change my career pathway from hardware to software, so now I try to learn and practice in many kinds of software field. 
+
+- 🔭 I’m currently working on final year project
+- 🌱 I’m currently learning python, c++, java, SQL, & more  
+
+## Contract me
+- [Facebook] { https://www.facebook.com/kobchok.paphanithisakul/ }<br>
+- [Instagram] { https://www.instagram.com/kobchok_time/ }<br>
+- [Twitter] { https://twitter.com/KobchokTime }<br>
 <!--
 **KobchokTime/KobchokTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
