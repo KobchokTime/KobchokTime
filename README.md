@@ -3,12 +3,15 @@
 😄 Hi I'm Kobchok but you can call me ✨ Time ✨ I'm a graduate with a bachelor's degree in Robotics and AI Engineering from KMITL and, now I'm studying a master's degree in Robotics and Automation at FIBO(KMUTT)
 
 - 🔭 I’m currently working on a thesis project about BCI and Emotions
+- 🔭 I’m currently working on a WebGL multiplayer Unity game with MQTT
+- 🔭 I’m currently working on neuro data analysis by EEG
 - 🌱 I’m currently learning python, c++, java, SQL, & more  
 
 ## Contact me
 - [Facebook] { https://www.facebook.com/kobchok.paphanithisakul/ }<br>
 - [Instagram] { https://www.instagram.com/kobchok_time/ }<br>
 - [Twitter] { https://twitter.com/KobchokTime }<br>
+- [LinkedIn] {https://www.linkedin.com/in/kobchok-paphanithisakul-239bab187/}<dr>
 <!--
 **KobchokTime/KobchokTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
