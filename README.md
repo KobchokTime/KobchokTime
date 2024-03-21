@@ -1,11 +1,11 @@
-# Hi I'm Kobchok, Welcome to my Github profile 👋
+# Hi I'm Kobchok, Welcome to my GitHub profile 👋
 
-😄 Hi I'm Kobchok but you can call me ✨ Time ✨ now I'm 4th-year robotics and ai engineering student at KMITL and I'm interested in the game, Ux/UI and other software industry, so I change my career pathway from hardware to software, so now I try to learn and practice in many kinds of software field. 
+😄 Hi I'm Kobchok but you can call me ✨ Time ✨ I'm a graduate with a bachelor's degree in Robotics and AI Engineering from KMITL and, now I'm studying a master's degree in Robotics and Automation at FIBO(KMUTT)
 
-- 🔭 I’m currently working on final year project
+- 🔭 I’m currently working on a thesis project about BCI and Emotions
 - 🌱 I’m currently learning python, c++, java, SQL, & more  
 
-## Contract me
+## Contact me
 - [Facebook] { https://www.facebook.com/kobchok.paphanithisakul/ }<br>
 - [Instagram] { https://www.instagram.com/kobchok_time/ }<br>
 - [Twitter] { https://twitter.com/KobchokTime }<br>
