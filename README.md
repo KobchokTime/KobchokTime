@@ -11,7 +11,7 @@
 - [Facebook] { https://www.facebook.com/kobchok.paphanithisakul/ }<br>
 - [Instagram] { https://www.instagram.com/kobchok_time/ }<br>
 - [Twitter] { https://twitter.com/KobchokTime }<br>
-- [LinkedIn] {https://www.linkedin.com/in/kobchok-paphanithisakul-239bab187/}<de>
+- [LinkedIn] {https://www.linkedin.com/in/kobchok-paphanithisakul-239bab187/ }<dr>
 <!--
 **KobchokTime/KobchokTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
