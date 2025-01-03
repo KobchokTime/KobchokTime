@@ -2,9 +2,9 @@
 
 😄 Hi I'm Kobchok but you can call me ✨ Time ✨ I'm a graduate with a bachelor's degree in Robotics and AI Engineering from KMITL and, now I'm studying a master's degree in Robotics and Automation at FIBO(KMUTT)
 
-- 🔭 I’m currently working on a thesis project about BCI and Emotions
+- 🔭 I’m currently working on a thesis project about person-following robot in farming environment
 - 🔭 I’m currently working on a WebGL multiplayer Unity game with MQTT
-- 🔭 I’m currently working on neuro data analysis by EEG
+- 🔭 I’m currently working on color visualization for feature extraction
 - 🌱 I’m currently learning python, c++, java, SQL, & more  
 
 ## Contact me
